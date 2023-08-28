@@ -11,31 +11,52 @@
 
 </div>
 
-## 🚀 Checkout my Programming Skills
+## 🚀 Checkout my Programming Skills and Tools I use
  Embracing Challenges, Harnessing Growth! My GitHub journey's a mosaic of experiences, sculpting my tech finesse. 💻 From code puzzles to version control enigmas, each hurdle breeds mastery. 💪🌱 Mistakes humbled, victories ignited, iterative strides mirrored personal evolution. GitHub's canvas paints my progress – where obstacles now mark achievements. 🏆🎨 This, my GitHub saga: a tribute to triumphs etched by experience! 🌟🌈
 
 <!-- SKILLS  -->
-<div style="display: inline_block">
+#### Languages
+<div>
     <img align="center" style="margin-top: 10px" alt="C#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
     <img align="center" style="margin-top: 10px" alt="HTML" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">
     <img align="center" style="margin-top: 10px" alt="CSS" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white">
-    <img align="center" style="margin-top: 10px" alt=".NET" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white">
-    <img align="center" style="margin-top: 10px" alt="JAVASCRIPT" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-    <img align="center" style="margin-top: 10px" alt="TYPESCRIPT" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"> <img align="center" style="margin-top: 10px" alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-    <img align="center" style="margin-top: 10px" alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-    <img align="center" style="margin-top: 10px" alt="C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
-    <img align="center" style="margin-top: 10px" alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
-    <img align="center" style="margin-top: 10px" alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
+    <img align="center" style="margin-top: 10px" alt=".NET" src="https://img.shields.io/badge/.NET-239120?style=for-the-badge&logo=.net&logoColor=white">
+    <img align="center" style="margin-top: 10px" alt="JAVASCRIPT" src="https://img.shields.io/badge/JavaScript-239120?style=for-the-badge&logo=javascript&logoColor=white">
+    <img align="center" style="margin-top: 10px" alt="TYPESCRIPT" src="https://img.shields.io/badge/TypeScript-239120?style=for-the-badge&logo=typescript&logoColor=white"> 
+    <img align="center" style="margin-top: 10px" alt="HTML5" src="https://img.shields.io/badge/HTML5-239120?style=for-the-badge&logo=html5&logoColor=white">
+    <img align="center" style="margin-top: 10px" alt="CSS3" src="https://img.shields.io/badge/CSS3-239120?style=for-the-badge&logo=css3&logoColor=white">
+    <img align="center" style="margin-top: 10px" alt="C" src="https://img.shields.io/badge/C-239120?style=for-the-badge&logo=c&logoColor=white">
+    <img align="center" style="margin-top: 10px" alt="C++" src="https://img.shields.io/badge/C%2B%2B-239120?style=for-the-badge&logo=c%2B%2B&logoColor=white">
+    <img align="center" style="margin-top: 10px" alt="PHP" src="https://img.shields.io/badge/PHP-239120?style=for-the-badge&logo=php&logoColor=white">
+</div>
+
+#### Frameworks and Libraries
+<div>
     <img align="center" style="margin-top: 10px" alt="REACT JS" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
-    <img align="center" style="margin-top: 10px" alt="BOOTSTRAP" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
-    <img align="center" style="margin-top: 10px" alt="JQUERY" src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white">
-    <img align="center" style="margin-top: 10px" alt="MYSQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
+    <img align="center" style="margin-top: 10px" alt="BOOTSTRAP" src="https://img.shields.io/badge/Bootstrap-20232A?style=for-the-badge&logo=bootstrap&logoColor=white">
+    <img align="center" style="margin-top: 10px" alt="JQUERY" src="https://img.shields.io/badge/jQuery-20232A?style=for-the-badge&logo=jquery&logoColor=white">
+</div>
+
+#### Database Skills
+<div>
+    <img align="center" style="margin-top: 10px" alt="MYSQL" src="https://img.shields.io/badge/MySQL-07405E?style=for-the-badge&logo=mysql&logoColor=white">
     <img align="center" style="margin-top: 10px" alt="SQLITE" src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white">
-    <img align="center" style="margin-top: 10px" alt="UNITY" src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white">
+    <img align="center" style="margin-top: 10px" alt="SQLITE" src="https://img.shields.io/badge/Microsoft%20SQL%20Server-07405E?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white">
+</div>
+
+#### Game Engine Skills
+<div>
+    <img align="center" style="margin-top: 10px" alt="UNITY" src="https://img.shields.io/badge/Unity-%23313131?style=for-the-badge&logo=unity&logoColor=white">
+   <img align="center" style="margin-top: 10px" alt="UNREAL ENGINE" src="https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white">
+   
+</div>
+
+####  Microsoft Tools
+<div>
     <img align="center" style="margin-top: 10px" alt="MS EXCEL" src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white">
-    <img align="center" style="margin-top: 10px" alt="MS POWERPOINT" src="https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white">
-    <img align="center" style="margin-top: 10px" alt="MS ACCESS" src="https://img.shields.io/badge/Microsoft_Access-A4373A?style=for-the-badge&logo=microsoft-access&logoColor=white">
-    <img align="center" style="margin-top: 10px" alt="MS WORD" src="https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white">
+    <img align="center" style="margin-top: 10px" alt="MS POWERPOINT" src="https://img.shields.io/badge/Microsoft_PowerPoint-217346?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white">
+    <img align="center" style="margin-top: 10px" alt="MS ACCESS" src="https://img.shields.io/badge/Microsoft_Access-217346?style=for-the-badge&logo=microsoft-access&logoColor=white">
+    <img align="center" style="margin-top: 10px" alt="MS WORD" src="https://img.shields.io/badge/Microsoft_Word-217346?style=for-the-badge&logo=microsoft-word&logoColor=white">
 </div>
 
 ## 🎨 Design
@@ -107,4 +128,3 @@ Thank you once again for joining me on this exciting journey. Here's to many mor
         "During my time at SNIR TECHNOLOGIES, I literally met the best programmers on this planet, so... as long as I'm a programmer, just being like them would be more than enough. 💻🌍🚀"
     <h3>
 </div>
-
