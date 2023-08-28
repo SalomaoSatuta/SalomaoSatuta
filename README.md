@@ -1,5 +1,9 @@
-### 👋 Hello there! I'm Saolomão Satuta, a passionate software developer with a knack for crafting elegant solutions to complex challenges.
+<div style="font-weight:lighter">
 
+### 👋 Hello there! I'm Salomão Satuta, a passionate software developer with a knack for crafting elegant solutions to complex challenges.
+
+
+</div>
 
 <div align="center">
 
@@ -14,7 +18,7 @@
 </div>
 
 ## 🚀 Checkout my Programming Skills
-#### Embracing Challenges, Harnessing Growth! My GitHub journey's a mosaic of experiences, sculpting my tech finesse. 💻 From code puzzles to version control enigmas, each hurdle breeds mastery. 💪🌱 Mistakes humbled, victories ignited, iterative strides mirrored personal evolution. GitHub's canvas paints my progress – where obstacles now mark achievements. 🏆🎨 This, my GitHub saga: a tribute to triumphs etched by experience! 🌟🌈
+ Embracing Challenges, Harnessing Growth! My GitHub journey's a mosaic of experiences, sculpting my tech finesse. 💻 From code puzzles to version control enigmas, each hurdle breeds mastery. 💪🌱 Mistakes humbled, victories ignited, iterative strides mirrored personal evolution. GitHub's canvas paints my progress – where obstacles now mark achievements. 🏆🎨 This, my GitHub saga: a tribute to triumphs etched by experience! 🌟🌈
 
 <!-- SKILLS  -->
 <div style="display: inline_block">
@@ -42,7 +46,7 @@
 
 ## 🎨 Design
 
-#### Within my GitHub realm, pixels come to life. 🖌️ Adobe Suite and Sketch dance at my fingertips, while Figma's canvas hosts my innovative visions. From UI/UX finesse to pixel-perfect artwork, I've etched design into every commit. 🚀 Let my Github tell the story! ✨🎉
+Within my GitHub realm, pixels come to life. 🖌️ Adobe Suite and Sketch dance at my fingertips, while Figma's canvas hosts my innovative visions. From UI/UX finesse to pixel-perfect artwork, I've etched design into every commit. 🚀 Let my Github tell the story! ✨🎉
 
 <!-- DESIGN  -->
 <div style="display: inline_block">
@@ -56,13 +60,13 @@
     
 </div>
 
-#### There are some othe framework I've been using, but...I guess those are the main ones...
+There are some othe framework I've been using, but...I guess those are the main ones...
 
 ## 💭 There are some extra stuffs I'd like to tell you!
 
-#### Welcome to the realm of exploration beyond the ordinary. 🌟 Here, creativity knows no bounds, as I embark on endeavors close to my heart. From nurturing my YouTube channel, "One Lesson One Step Ahead," dedicated to imparting the nuances of the English language, to tending to "Etu Mudietu Business," my platform for fostering business growth, this is where my multifaceted interests flourish. 🎥📈
+Welcome to the realm of exploration beyond the ordinary. 🌟 Here, creativity knows no bounds, as I embark on endeavors close to my heart. From nurturing my YouTube channel, "One Lesson One Step Ahead," dedicated to imparting the nuances of the English language, to tending to "Etu Mudietu Business," my platform for fostering business growth, this is where my multifaceted interests flourish. 🎥📈
 
-#### Join me as I bridge language gaps and cultivate entrepreneurial aspirations, one step at a time. 🚀💬 Let's unravel the layers of learning and entrepreneurship, discovering the symphony of possibilities that lies within.
+Join me as I bridge language gaps and cultivate entrepreneurial aspirations, one step at a time. 🚀💬 Let's unravel the layers of learning and entrepreneurship, discovering the symphony of possibilities that lies within.
 
 ### One Lesson One Step Ahead
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@onelessononestepahead1504)
@@ -73,21 +77,20 @@
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/etumudietubusiness)
 
 ## Wow, that was a very nice trip
-#### As I conclude this journey through my GitHub portfolio, I'm reminded that every line of code, every commit, and every project tells a story of growth and dedication. 🌱💻 The challenges I've overcome and the solutions I've crafted stand as testaments to my journey as a developer. I invite you to explore this digital canvas, where innovation and learning intertwine.
+As I conclude this journey through my GitHub portfolio, I'm reminded that every line of code, every commit, and every project tells a story of growth and dedication. 🌱💻 The challenges I've overcome and the solutions I've crafted stand as testaments to my journey as a developer. I invite you to explore this digital canvas, where innovation and learning intertwine.
 
-#### Thank you for taking the time to explore my work. I'm excited about what the future holds and the endless possibilities that await. Let's connect, collaborate, and shape the next chapter together.
+Thank you for taking the time to explore my work. I'm excited about what the future holds and the endless possibilities that await. Let's connect, collaborate, and shape the next chapter together.
 
-#### Feel free to reach out to me for any inquiries, collaborations, or discussions. Let's create something amazing!
+Feel free to reach out to me for any inquiries, collaborations, or discussions. Let's create something amazing!
 
 <div>
     <ul>
         <li>salomaohequele95@gmail.com</li>
         <li>salomaohequele@hotmail.com</li>
     </ul>
-
 </div>
 
-#### Or you can use my social networks:
+ Or you can use my social networks:
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/super_satuta/)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/salomao.satuta/)
@@ -98,7 +101,7 @@ Thank you once again for joining me on this exciting journey. Here's to many mor
 
 
 <div align="center">
-    <h3>
+    <h4>
         "During my time at SNIR TECHNOLOGIES, I literally met the best programmers on this planet, so... as long as I'm a programmer, just being like them would be more than enough. 💻🌍🚀"
     <h3>
 </div>
