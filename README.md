@@ -7,13 +7,13 @@
 
 <div align="center">
 
-[![Salomão's GitHub stats](https://github-readme-stats.vercel.app/api?username=salomaosatuta&show_icons=true&theme=dracula)
+![Salomão's GitHub stats](https://github-readme-stats.vercel.app/api?username=salomaosatuta&show_icons=true&theme=dracula)
 
 </div>
 
 <div align="center">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
 
