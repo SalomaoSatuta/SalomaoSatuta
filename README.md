@@ -2,14 +2,8 @@
 
 ### 👋 Hello there! I'm Salomão Satuta, a passionate software developer with a knack for crafting elegant solutions to complex challenges.
 
-
 </div>
 
-<div align="center">
-
-![Salomão's GitHub stats](https://github-readme-stats.vercel.app/api?username=salomaosatuta&show_icons=true&theme=dracula)
-
-</div>
 
 <div align="center">
 
