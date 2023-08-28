@@ -20,7 +20,6 @@
     <img align="center" style="margin-top: 10px" alt="C#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
     <img align="center" style="margin-top: 10px" alt="HTML" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">
     <img align="center" style="margin-top: 10px" alt="CSS" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white">
-    <img align="center" style="margin-top: 10px" alt=".NET" src="https://img.shields.io/badge/.NET-239120?style=for-the-badge&logo=.net&logoColor=white">
     <img align="center" style="margin-top: 10px" alt="JAVASCRIPT" src="https://img.shields.io/badge/JavaScript-239120?style=for-the-badge&logo=javascript&logoColor=white">
     <img align="center" style="margin-top: 10px" alt="TYPESCRIPT" src="https://img.shields.io/badge/TypeScript-239120?style=for-the-badge&logo=typescript&logoColor=white"> 
     <img align="center" style="margin-top: 10px" alt="HTML5" src="https://img.shields.io/badge/HTML5-239120?style=for-the-badge&logo=html5&logoColor=white">
@@ -32,9 +31,13 @@
 
 #### Frameworks and Libraries
 <div>
+    <img align="center" style="margin-top: 10px" alt=".NET" src="https://img.shields.io/badge/.NET-20232A?style=for-the-badge&logo=.net&logoColor=white">
     <img align="center" style="margin-top: 10px" alt="REACT JS" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
     <img align="center" style="margin-top: 10px" alt="BOOTSTRAP" src="https://img.shields.io/badge/Bootstrap-20232A?style=for-the-badge&logo=bootstrap&logoColor=white">
     <img align="center" style="margin-top: 10px" alt="JQUERY" src="https://img.shields.io/badge/jQuery-20232A?style=for-the-badge&logo=jquery&logoColor=white">
+    <img align="center" style="margin-top: 10px" alt="CHART JS" src="https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white">
+    <img align="center" style="margin-top: 10px" alt="CHART JS" src="https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white">
+    <img align="center" style="margin-top: 10px" alt="CHART JS" src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white">
 </div>
 
 #### Database Skills
