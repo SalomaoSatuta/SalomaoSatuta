@@ -7,7 +7,7 @@
 
 <div align="center">
 
-![Salomão's GitHub stats](https://github-readme-stats.vercel.app/api?username=salomaosatuta&show_icons=true&theme=dracula)
+[![Salomão's GitHub stats](https://github-readme-stats.vercel.app/api?username=salomaosatuta&show_icons=true&theme=dracula)
 
 </div>
 
