@@ -78,24 +78,6 @@ I am proud to share that I have been honored as the national winner in the prest
 
 It is with great satisfaction that I announce securing the first place in the Digital Game Creation Contest's prototype category, with my project titled "Mandume: Untold (The Untold Story)." This game is an embodiment of my dedication and passion for crafting immersive experiences through interactive storytelling.
 
-#### About the Game
-
-"Mandume: Untold" is a game prototype that immerses players in an exhilarating narrative set in a unique historical backdrop. The game was developed in Unreal Engine and aims to bring to life the untold story of the legendary African leader, Mandume ya Ndemufayo, by exploring his journey, challenges, and triumphs in an interactive and educational manner.
-
-#### Contest Experience
-
-Participating in the Digital Game Creation Contest was an exciting and rewarding journey. From the initial concept to the implementation and presentation of the prototype, each stage was an opportunity to enhance my skills in game design, narrative, and programming.
-
-This achievement wouldn't have been possible without the support of colleagues, mentors, and friends who encouraged me and provided invaluable feedback along the way.
-
-### Acknowledgments
-
-I would like to express my deep gratitude to the organizers of the Digital Game Creation Contest and the judges for recognizing the potential and innovation behind "Mandume: Untold." I also want to thank all those who believed in me and supported me during this creative journey.
-
-I am eager to continue exploring the world of digital games and creating experiences that inspire, educate, and entertain players around the globe.
-
-Stay tuned for more updates and news! 🚀🎮
-
 ## Wow, that was a very nice trip
 As I conclude this journey through my GitHub portfolio, I'm reminded that every line of code, every commit, and every project tells a story of growth and dedication. 🌱💻 The challenges I've overcome and the solutions I've crafted stand as testaments to my journey as a developer. I invite you to explore this digital canvas, where innovation and learning intertwine.
 
